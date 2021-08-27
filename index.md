@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# B012ED Ddos
 
-You can use the [editor on GitHub](https://github.com/B012ED/Ddos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![chat-bored](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/chat-B012ED.json&style=?style=for-the-badge&logo=steam)](https://b012ed.github.io/chat.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![YouTube](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED.json&style=?style=for-the-badge&logo=youtube)](https://youtu.be/dSrue-pVzno) 
 
-### Markdown
+What is B012ED Ddos tools?<br>
+B012ED Ddos is a tool for server testing script. Your ip is visible.
+**how to install and usage:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Termux:**
+* `pkg install python3`
+* `pip2 install requests`
+* `pkg install git`
+* `git clone https://github.com/B012ED/Ddos.git`
+* `cd Ddos`
+* `python3 Ddos.py`
 
-```markdown
-Syntax highlighted code block
+**Linux:**
+* `apt-get install python3`
+* `apt-get install python3-pip`
+* `pip install requests`
+* `apt-get install git`
+* `git clone https://github.com/B012ED/Ddos.git`
+* `cd Ddos`
+* `python3 Ddos.py`
 
-# Header 1
-## Header 2
-### Header 3
+**NOTE:** Don't abuse All risks are borne by the user.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/B012ED/Ddos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
