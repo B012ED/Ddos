@@ -2,7 +2,7 @@
 
 [![chat-bored](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/chat-B012ED.json&style=?style=for-the-badge&logo=steam)](https://b012ed.github.io/chat.html)
 
-[![YouTube](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED.json&style=?style=for-the-badge&logo=youtube)](https://youtu.be/dSrue-pVzno) 
+[![YouTube](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED.json&style=?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCIqT1hHplli4XvJj7ZUEMzA) 
 
 What is B012ED Ddos tools?<br>
 B012ED Ddos is a tool for server testing script. Your ip is visible.
