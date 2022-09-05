@@ -4,6 +4,8 @@
 
 [![YouTube](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED.json&style=?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCIqT1hHplli4XvJj7ZUEMzA) 
 
+[![Tools-bored](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED-Tools.json&style=?style=for-the-badge&logo=appveyor)](https://www.studypool.com/notebank/search?notebank_qs=b012ed&notebank_qs_university=)
+
 What is B012ED Ddos tools?<br>
 B012ED Ddos is a tool for server testing script. Your ip is visible.
 **how to install and usage:**
